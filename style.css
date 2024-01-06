@@ -607,7 +607,7 @@
 
  /*subscribe*/
  .subscribe {
-     background: url(./subscribeimage.avif), var(--cl-6--);
+     background: url(./subscribe\image.avif), var(--cl-6--);
      background-repeat: no-repeat;
      background-position: bottom center;
      background-size: cover;
