@@ -161,7 +161,7 @@
  }
 
  .hero .container {
-     background-image: url(./images/background.avif);
+     background-image: url(./background.avif);
      background-repeat: no-repeat;
      background-position: right center;
      background-size: cover;
@@ -607,7 +607,7 @@
 
  /*subscribe*/
  .subscribe {
-     background: url(./images/subscribe\ image.avif), var(--cl-6--);
+     background: url(./subscribe/ image.avif), var(--cl-6--);
      background-repeat: no-repeat;
      background-position: bottom center;
      background-size: cover;
@@ -711,7 +711,7 @@
      .toggleMenu {
          position: absolute;
          right: 5%;
-         background-image: url(./icons/menu.png);
+         background-image: url(./menu.png);
          background-repeat: no-repeat;
          background-position: center;
          background-size: 30px;
@@ -727,7 +727,7 @@
 
      .toggleMenu.active {
          position: fixed;
-         background-image: url(./icons/menu.png);
+         background-image: url(./menu.png);
          background-size: 25px;
      }
 
